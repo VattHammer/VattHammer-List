@@ -458,7 +458,7 @@
 	},
 	{
 		"abr": "crossbowbolt",
-		"price": 0,
+		"price": 1,
 		"category": "Crossbow bolts",
 		"defname": "Ammo_CrossbowBolt_Stone"
 	},
@@ -785,12 +785,6 @@
 		"price": 2,
 		"category": "Arrows",
 		"defname": "Ammo_CompoundArrow_Broadhead"
-	},
-	{
-		"abr": "grapes",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VFEM_RawGrapes"
 	},
 	{
 		"abr": "redwood",
@@ -1801,12 +1795,6 @@
 		"defname": "Ammo_40x46mmGrenade_HE"
 	},
 	{
-		"abr": "grapemust",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "VFEM_Must"
-	},
-	{
 		"abr": "wort",
 		"price": 4,
 		"category": "Manufactured",
@@ -2671,12 +2659,6 @@
 		"defname": "MealFine"
 	},
 	{
-		"abr": "wine",
-		"price": 33,
-		"category": "Drugs",
-		"defname": "VFEM_Wine"
-	},
-	{
 		"abr": "horseshoespin",
 		"price": 34,
 		"category": "Recreation",
@@ -3445,12 +3427,6 @@
 		"defname": "FermentingBarrel"
 	},
 	{
-		"abr": "winebarrel",
-		"price": 95,
-		"category": "Production",
-		"defname": "VFEM_WineBarrel"
-	},
-	{
 		"abr": "rpg-7grenade(heat)",
 		"price": 96,
 		"category": "RPG-7 grenades",
@@ -3791,12 +3767,6 @@
 		"price": 151,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_ShirtandTie"
-	},
-	{
-		"abr": "lightplatehelmet",
-		"price": 153,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlateHelmetLight"
 	},
 	{
 		"abr": "game-of-urboard",
@@ -4255,12 +4225,6 @@
 		"defname": "VAE_Apparel_QuiltedVest"
 	},
 	{
-		"abr": "tabard",
-		"price": 211,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_Tabard"
-	},
-	{
 		"abr": "tribalwear",
 		"price": 211,
 		"category": "Apparel",
@@ -4349,12 +4313,6 @@
 		"price": 240,
 		"category": "Ranged weapons",
 		"defname": "VWE_Bow_Compound"
-	},
-	{
-		"abr": "kiteshield",
-		"price": 241,
-		"category": "Shields",
-		"defname": "VFEM_Shield_Kite"
 	},
 	{
 		"abr": "labcoat",
@@ -4711,12 +4669,6 @@
 		"defname": "Bin_Large"
 	},
 	{
-		"abr": "heavyplatehelmet",
-		"price": 305,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlateHelmetHeavy"
-	},
-	{
 		"abr": "hazmatmask",
 		"price": 308,
 		"category": "Headgear",
@@ -5023,12 +4975,6 @@
 		"defname": "VitalsMonitor"
 	},
 	{
-		"abr": "heatershield",
-		"price": 367,
-		"category": "Shields",
-		"defname": "VFEM_Shield_Heater"
-	},
-	{
 		"abr": "illuminateddresser",
 		"price": 367,
 		"category": "Furniture",
@@ -5309,12 +5255,6 @@
 		"price": 442,
 		"category": "Melee weapons",
 		"defname": "VWE_MeleeWeapon_BattleAxe"
-	},
-	{
-		"abr": "claymore",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "VFEM_MeleeWeapon_Claymore"
 	},
 	{
 		"abr": "compositevest",
@@ -6979,12 +6919,6 @@
 		"defname": "MedicalRib"
 	},
 	{
-		"abr": "heavyplatearmor",
-		"price": 1158,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_PlateArmorHeavy"
-	},
-	{
 		"abr": "blackbear",
 		"price": 1167,
 		"category": "Animal",
@@ -8611,12 +8545,6 @@
 		"defname": "SRTSMkIV"
 	},
 	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Items",
-		"defname": "MechSerumYouth"
-	},
-	{
 		"abr": "instinctoptimizingnanobots",
 		"price": 2308,
 		"category": "Organic optimizer",
@@ -8633,6 +8561,306 @@
 		"price": 2000,
 		"category": "Organic optimizer",
 		"defname": "EPOE_OrganicOptimizingNanobots"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatTeal"
+	},
+	{
+		"abr": "doubleshelf",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 20,
+		"category": "Furniture",
+		"defname": "DoorMatBigTeal"
+	},
+	{
+		"abr": "linkeddoormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedLeather"
+	},
+	{
+		"abr": "linkeddoormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedBlue"
+	},
+	{
+		"abr": "linkeddoormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedGreen"
+	},
+	{
+		"abr": "linkeddoormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedOrange"
+	},
+	{
+		"abr": "linkeddoormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedRed"
+	},
+	{
+		"abr": "linkeddoormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "DoorMatLinkedTeal"
+	},
+	{
+		"abr": "magneticshield",
+		"price": 1633,
+		"category": "Power",
+		"defname": "Building_RTMagneticShield"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "mediumdoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumLeather"
+	},
+	{
+		"abr": "mediumdoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumBlue"
+	},
+	{
+		"abr": "mediumdoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumGreen"
+	},
+	{
+		"abr": "mediumdoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumOrange"
+	},
+	{
+		"abr": "mediumdoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumRed"
+	},
+	{
+		"abr": "mediumdoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "DoorMatMediumTeal"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": 321,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "40x365mmboforscartridge(ap)",
+		"price": 14,
+		"category": "40x365mm Bofors",
+		"defname": "Ammo_40x365mmBofors_AP"
+	},
+	{
+		"abr": "40x365mmboforscartridge(he)",
+		"price": 30,
+		"category": "40x365mm Bofors",
+		"defname": "Ammo_40x365mmBofors_HE"
+	},
+	{
+		"abr": "mastiffshell(buck)",
+		"price": 16,
+		"category": "Advanced",
+		"defname": "Ammo_MastiffShotgunShell"
+	},
+	{
+		"abr": "rpg-32grenade(heat)",
+		"price": 156,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_HEAT"
+	},
+	{
+		"abr": "rpg-32grenade(thermobaric)",
+		"price": 156,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_Thermobaric"
+	},
+	{
+		"abr": "x-5cartridge",
+		"price": 1,
+		"category": "Advanced",
+		"defname": "Ammo_AndroidTiersX5Pistol"
 	},
 	{
 		"abr": "40mmcannon",
@@ -8887,10 +9115,10 @@
 		"defname": "AndroidChicken"
 	},
 	{
-		"abr": "clothingrack",
-		"price": 170,
-		"category": "Furniture",
-		"defname": "LWM_Clothing_Rack"
+		"abr": "claymore",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "VFEM_MeleeWeapon_Claymore"
 	},
 	{
 		"abr": "compositeframeplating",
@@ -8977,54 +9205,6 @@
 		"defname": "CyberReplacementLeg"
 	},
 	{
-		"abr": "doormat",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLeather"
-	},
-	{
-		"abr": "doormat(blue)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatBlue"
-	},
-	{
-		"abr": "doormat(green)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatGreen"
-	},
-	{
-		"abr": "doormat(orange)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatOrange"
-	},
-	{
-		"abr": "doormat(red)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatRed"
-	},
-	{
-		"abr": "doormat(teal)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatTeal"
-	},
-	{
-		"abr": "doubleshelf",
-		"price": 224,
-		"category": "Furniture",
-		"defname": "LWM_BigShelf"
-	},
-	{
-		"abr": "dualrefrigerator",
-		"price": 186,
-		"category": "Furniture",
-		"defname": "RimFridge_Refrigerator"
-	},
-	{
 		"abr": "engineeringimplant",
 		"price": 3333,
 		"category": "Android",
@@ -9035,12 +9215,6 @@
 		"price": 5833,
 		"category": "Android",
 		"defname": "EvolvingImplant"
-	},
-	{
-		"abr": "foodbasket",
-		"price": 270,
-		"category": "Furniture",
-		"defname": "LWM_Food_Basket"
 	},
 	{
 		"abr": "fractalenhancement",
@@ -9055,10 +9229,16 @@
 		"defname": "GeoMindImplant"
 	},
 	{
-		"abr": "hampers",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "LWM_FabricHamper"
+		"abr": "grapemust",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "VFEM_Must"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VFEM_RawGrapes"
 	},
 	{
 		"abr": "handcannon",
@@ -9067,10 +9247,22 @@
 		"defname": "MechHandCannon"
 	},
 	{
-		"abr": "hayloft",
-		"price": 287,
-		"category": "Furniture",
-		"defname": "LWM_Hayloft"
+		"abr": "heatershield",
+		"price": 367,
+		"category": "Shields",
+		"defname": "VFEM_Shield_Heater"
+	},
+	{
+		"abr": "heavyplatearmor",
+		"price": 1158,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_PlateArmorHeavy"
+	},
+	{
+		"abr": "heavyplatehelmet",
+		"price": 305,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_PlateHelmetHeavy"
 	},
 	{
 		"abr": "highpowerarm",
@@ -9169,76 +9361,16 @@
 		"defname": "AndroidDog"
 	},
 	{
-		"abr": "largedoormat",
-		"price": 20,
-		"category": "Furniture",
-		"defname": "DoorMatBigLeather"
+		"abr": "kiteshield",
+		"price": 241,
+		"category": "Shields",
+		"defname": "VFEM_Shield_Kite"
 	},
 	{
-		"abr": "largedoormat(blue)",
-		"price": 20,
-		"category": "Furniture",
-		"defname": "DoorMatBigBlue"
-	},
-	{
-		"abr": "largedoormat(green)",
-		"price": 20,
-		"category": "Furniture",
-		"defname": "DoorMatBigGreen"
-	},
-	{
-		"abr": "largedoormat(orange)",
-		"price": 20,
-		"category": "Furniture",
-		"defname": "DoorMatBigOrange"
-	},
-	{
-		"abr": "largedoormat(red)",
-		"price": 20,
-		"category": "Furniture",
-		"defname": "DoorMatBigRed"
-	},
-	{
-		"abr": "largedoormat(teal)",
-		"price": 20,
-		"category": "Furniture",
-		"defname": "DoorMatBigTeal"
-	},
-	{
-		"abr": "linkeddoormat",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedLeather"
-	},
-	{
-		"abr": "linkeddoormat(blue)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedBlue"
-	},
-	{
-		"abr": "linkeddoormat(green)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedGreen"
-	},
-	{
-		"abr": "linkeddoormat(orange)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedOrange"
-	},
-	{
-		"abr": "linkeddoormat(red)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedRed"
-	},
-	{
-		"abr": "linkeddoormat(teal)",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedTeal"
+		"abr": "lightplatehelmet",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_PlateHelmetLight"
 	},
 	{
 		"abr": "m.u.f.funit",
@@ -9259,76 +9391,16 @@
 		"defname": "ATPP_AndroidPodMech"
 	},
 	{
-		"abr": "magneticshield",
-		"price": 1633,
-		"category": "Power",
-		"defname": "Building_RTMagneticShield"
-	},
-	{
 		"abr": "mastiffshotgun",
 		"price": 1333,
 		"category": "Ranged weapons",
 		"defname": "MechMastiffGun"
 	},
 	{
-		"abr": "mealtrayrack",
-		"price": 255,
-		"category": "Furniture",
-		"defname": "LWM_MealRack"
-	},
-	{
-		"abr": "meathook",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "LWM_Meat_Hook"
-	},
-	{
 		"abr": "mechaniteswarm",
 		"price": 33,
 		"category": "Drugs",
 		"defname": "MechSwarm"
-	},
-	{
-		"abr": "medicinecabinet",
-		"price": 203,
-		"category": "Furniture",
-		"defname": "LWM_Medicine_Cabinet"
-	},
-	{
-		"abr": "mediumdoormat",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "DoorMatMediumLeather"
-	},
-	{
-		"abr": "mediumdoormat(blue)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "DoorMatMediumBlue"
-	},
-	{
-		"abr": "mediumdoormat(green)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "DoorMatMediumGreen"
-	},
-	{
-		"abr": "mediumdoormat(orange)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "DoorMatMediumOrange"
-	},
-	{
-		"abr": "mediumdoormat(red)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "DoorMatMediumRed"
-	},
-	{
-		"abr": "mediumdoormat(teal)",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "DoorMatMediumTeal"
 	},
 	{
 		"abr": "metallicwool",
@@ -9415,18 +9487,6 @@
 		"defname": "OrbitalTargeterMechFall"
 	},
 	{
-		"abr": "pallet",
-		"price": 220,
-		"category": "Furniture",
-		"defname": "LWM_Pallet"
-	},
-	{
-		"abr": "palletwithwrapping",
-		"price": 321,
-		"category": "Furniture",
-		"defname": "LWM_Pallet_Covered"
-	},
-	{
 		"abr": "phytominingunit",
 		"price": 2667,
 		"category": "Animal",
@@ -9451,12 +9511,6 @@
 		"defname": "PositronMindImplant"
 	},
 	{
-		"abr": "quadrefrigerator",
-		"price": 307,
-		"category": "Furniture",
-		"defname": "RimFridge_QuadRefrigerator"
-	},
-	{
 		"abr": "repairkit",
 		"price": 50,
 		"category": "Manufactured",
@@ -9473,18 +9527,6 @@
 		"price": 250,
 		"category": "Artificial",
 		"defname": "ATPP_RXChip"
-	},
-	{
-		"abr": "singlerefrigerator",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RimFridge_SingleRefrigerator"
-	},
-	{
-		"abr": "skip",
-		"price": 305,
-		"category": "Furniture",
-		"defname": "LWM_DeepStorage_Skip"
 	},
 	{
 		"abr": "skymindrelaytower",
@@ -9553,16 +9595,16 @@
 		"defname": "Android5Tier"
 	},
 	{
+		"abr": "tabard",
+		"price": 211,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_Tabard"
+	},
+	{
 		"abr": "taintedskin",
 		"price": 13,
 		"category": "Leathers",
 		"defname": "Tainted_Skin"
-	},
-	{
-		"abr": "tallshelves",
-		"price": 550,
-		"category": "Furniture",
-		"defname": "LWM_VeryBigShelf"
 	},
 	{
 		"abr": "tricorderimplant",
@@ -9575,12 +9617,6 @@
 		"price": 717,
 		"category": "Furniture",
 		"defname": "AndroidOperationKit"
-	},
-	{
-		"abr": "uraniumslug",
-		"price": 5,
-		"category": "Uranium Slugs",
-		"defname": "Ammo_VFES_UraniumSlugs"
 	},
 	{
 		"abr": "vx0neuralchip",
@@ -9607,28 +9643,16 @@
 		"defname": "ATPP_VX3Chip"
 	},
 	{
-		"abr": "walldualrefrigerator",
-		"price": 186,
-		"category": "Furniture",
-		"defname": "RimFridge_WallRefrigerator"
+		"abr": "wine",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "VFEM_Wine"
 	},
 	{
-		"abr": "wallsinglerefrigerator",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RimFridge_SingleWallRefrigerator"
-	},
-	{
-		"abr": "weaponscabinet",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "LWM_WeaponsCabinet"
-	},
-	{
-		"abr": "weaponslocker",
-		"price": 237,
-		"category": "Furniture",
-		"defname": "LWM_WeaponsLocker"
+		"abr": "winebarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "VFEM_WineBarrel"
 	},
 	{
 		"abr": "zoologyimplant",
@@ -9637,16 +9661,310 @@
 		"defname": "AnimalMindImplant"
 	},
 	{
-		"abr": "40x365mmboforscartridge(ap)",
-		"price": 14,
-		"category": "40x365mm Bofors",
-		"defname": "Ammo_40x365mmBofors_AP"
+		"abr": "metalcrate",
+		"price": 262,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate"
 	},
 	{
-		"abr": "40x365mmboforscartridge(he)",
-		"price": 30,
-		"category": "40x365mm Bofors",
-		"defname": "Ammo_40x365mmBofors_HE"
+		"abr": "metalcratepile",
+		"price": 1525,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate_Pile"
+	},
+	{
+		"abr": "militarygradecratelarge",
+		"price": 2225,
+		"category": "Furniture",
+		"defname": "JDSMilitary_Grade_crate_Large"
+	},
+	{
+		"abr": "militarygradecratelong",
+		"price": 917,
+		"category": "Furniture",
+		"defname": "JDSMilitary_Grade_Crate_Long"
+	},
+	{
+		"abr": "militarygradecratesmall",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "JDSMilitaryGradeCrateSmall"
+	},
+	{
+		"abr": "militarygradecratesmallpile",
+		"price": 3008,
+		"category": "Furniture",
+		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
+	},
+	{
+		"abr": "palletbox",
+		"price": 196,
+		"category": "Furniture",
+		"defname": "JDSPallet_Box"
+	},
+	{
+		"abr": "palletcontainer",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "JDSPallet_Container"
+	},
+	{
+		"abr": "shippingcontainerblue",
+		"price": 9033,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerBlue"
+	},
+	{
+		"abr": "shippingcontainergreen",
+		"price": 9033,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerGreen"
+	},
+	{
+		"abr": "shippingcontainerred",
+		"price": 9033,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerRed"
+	},
+	{
+		"abr": "woodencrate",
+		"price": 144,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate"
+	},
+	{
+		"abr": "woodencrate2",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_Two"
+	},
+	{
+		"abr": "woodencrate3",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_Three"
+	},
+	{
+		"abr": "woodencrate4",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_four"
+	},
+	{
+		"abr": "woodencratelarge",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_Large"
+	},
+	{
+		"abr": "81mmmortarshell(nanoswarm)",
+		"price": 292,
+		"category": "81mm mortar shell",
+		"defname": "Shell_Nanoswarm"
+	},
+	{
+		"abr": "arrow(flame)",
+		"price": 3,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Flame"
+	},
+	{
+		"abr": "arrow(venom)",
+		"price": 4,
+		"category": "Arrows",
+		"defname": "Ammo_Arrow_Venom"
+	},
+	{
+		"abr": "greatarrow(flame)",
+		"price": 3,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Flame"
+	},
+	{
+		"abr": "greatarrow(venom)",
+		"price": 5,
+		"category": "Great arrows",
+		"defname": "Ammo_GreatArrow_Venom"
+	},
+	{
+		"abr": "carver",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "Carver"
+	},
+	{
+		"abr": "cleaver",
+		"price": 288,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralCleaver"
+	},
+	{
+		"abr": "feralanti-materialrifle",
+		"price": 642,
+		"category": "Ranged weapons",
+		"defname": "Gun_Crucifier"
+	},
+	{
+		"abr": "feralcrankgun",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "Gun_SkullBuster"
+	},
+	{
+		"abr": "feralexosuit",
+		"price": 6000,
+		"category": "Apparel",
+		"defname": "Apparel_FeralExo"
+	},
+	{
+		"abr": "feralexosuithelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "Apparel_FeralExoH"
+	},
+	{
+		"abr": "feralflamethrower",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scorcher"
+	},
+	{
+		"abr": "feralgasmask",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ScorcherHelmet"
+	},
+	{
+		"abr": "feralhelmet",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_GrinderHelmet"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_HuskerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_SkulkerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ThumperHood"
+	},
+	{
+		"abr": "feralmail",
+		"price": 667,
+		"category": "Apparel",
+		"defname": "Apparel_FeralMail"
+	},
+	{
+		"abr": "feralnailgun",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "Gun_Gnasher"
+	},
+	{
+		"abr": "feralpistols",
+		"price": 314,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scraptooth"
+	},
+	{
+		"abr": "feralratsticks",
+		"price": 333,
+		"category": "Feral weapons",
+		"defname": "Gun_RatStick"
+	},
+	{
+		"abr": "feralrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thrasher"
+	},
+	{
+		"abr": "feralrocketlauncher",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thumper"
+	},
+	{
+		"abr": "feralscattergun",
+		"price": 305,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterStick"
+	},
+	{
+		"abr": "feralsubmachineguns",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deathdealer"
+	},
+	{
+		"abr": "fusiondevice",
+		"price": 4167,
+		"category": "Grenades",
+		"defname": "Weapon_MADness"
+	},
+	{
+		"abr": "glaive",
+		"price": 358,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralGlaive"
+	},
+	{
+		"abr": "ogronmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Ogron"
+	},
+	{
+		"abr": "patchedshirt",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_PatchedShirt"
+	},
+	{
+		"abr": "razortoothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Razortooth"
+	},
+	{
+		"abr": "scavbench",
+		"price": 286,
+		"category": "Production",
+		"defname": "FeralTable"
+	},
+	{
+		"abr": "scraparmor",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "Apparel_ScrapArmor"
+	},
+	{
+		"abr": "shadarkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Shadark"
+	},
+	{
+		"abr": "twistedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Twisted"
+	},
+	{
+		"abr": ">bitsofjaggedscrapmetal",
+		"price": 1,
+		"category": "Scrap metal",
+		"defname": "Ammo_Feral_Scrap"
 	},
 	{
 		"abr": "guestadvancedbed",
@@ -9757,29 +10075,11 @@
 		"defname": "Bed_StoneSlabGuest"
 	},
 	{
-		"abr": "mastiffshell(buck)",
-		"price": 16,
-		"category": "Advanced",
-		"defname": "Ammo_MastiffShotgunShell"
-	},
-	{
-		"abr": "rpg-32grenade(heat)",
-		"price": 156,
-		"category": "RPG-32 rockets",
-		"defname": "Ammo_RPG32Rocket_HEAT"
-	},
-	{
-		"abr": "rpg-32grenade(thermobaric)",
-		"price": 156,
-		"category": "RPG-32 rockets",
-		"defname": "Ammo_RPG32Rocket_Thermobaric"
-	},
-	{
-		"abr": "x-5cartridge",
+		"abr": "nail",
 		"price": 1,
-		"category": "Advanced",
-		"defname": "Ammo_AndroidTiersX5Pistol"
+		"category": "Nail",
+		"defname": "Ammo_Feral_Nail"
 	}
 	],
-	"total": 1692
+	"total": 1913
 }
