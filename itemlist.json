@@ -1057,12 +1057,6 @@
 		"defname": "Meat_Capybara"
 	},
 	{
-		"abr": "caravelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_SPBoats_Caravel"
-	},
-	{
 		"abr": "cariboumeat",
 		"price": 3,
 		"category": "Meat",
@@ -1195,12 +1189,6 @@
 		"defname": "Meat_Elk"
 	},
 	{
-		"abr": "fishingboatmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_SPBoats_FishingBoat"
-	},
-	{
 		"abr": "fissionmousemeat",
 		"price": 3,
 		"category": "Meat",
@@ -1229,12 +1217,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Gallatross"
-	},
-	{
-		"abr": "galleonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_SPBoats_Galleon"
 	},
 	{
 		"abr": "gazellemeat",
@@ -1583,12 +1565,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rhinoceros"
-	},
-	{
-		"abr": "rowboatmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_SPBoats_RowBoat"
 	},
 	{
 		"abr": "royalavemeat",
@@ -3032,19 +3008,19 @@
 	},
 	{
 		"abr": "fissionmouse",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouse"
 	},
 	{
 		"abr": "fissionmouse,secondgeneration",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseSecond"
 	},
 	{
 		"abr": "fissionmouse,thirdgeneration",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
 	},
@@ -3921,7 +3897,7 @@
 	{
 		"abr": "nose",
 		"price": 167,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Nose"
 	},
 	{
@@ -5109,7 +5085,7 @@
 	{
 		"abr": "ear",
 		"price": 417,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Ear"
 	},
 	{
@@ -5133,7 +5109,7 @@
 	{
 		"abr": "jaw",
 		"price": 417,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Jaw"
 	},
 	{
@@ -5925,7 +5901,7 @@
 	{
 		"abr": "eyeball",
 		"price": 667,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Eye"
 	},
 	{
@@ -6393,7 +6369,7 @@
 	{
 		"abr": "stomach",
 		"price": 833,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Stomach"
 	},
 	{
@@ -7029,7 +7005,7 @@
 	{
 		"abr": "arm",
 		"price": 1250,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Arm"
 	},
 	{
@@ -7041,7 +7017,7 @@
 	{
 		"abr": "leg",
 		"price": 1250,
-		"category": "Natural",
+		"category": "Epoe redundancy",
 		"defname": "Leg"
 	},
 	{
@@ -7403,36 +7379,6 @@
 		"price": 1583,
 		"category": "Furniture",
 		"defname": "Seat_RoyalArmchair"
-	},
-	{
-		"abr": "srts:electricalcomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_ElectricSystem"
-	},
-	{
-		"abr": "srts:enginecomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Engines"
-	},
-	{
-		"abr": "srts:internalcomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Structural"
-	},
-	{
-		"abr": "srts:mechanicalcomponents",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_MechSystem"
-	},
-	{
-		"abr": "srts:steelplates",
-		"price": 1583,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Plates"
 	},
 	{
 		"abr": "poweredshortsword",
@@ -8095,12 +8041,6 @@
 		"defname": "JI_Grendel"
 	},
 	{
-		"abr": "superpod",
-		"price": 4150,
-		"category": "Buildings",
-		"defname": "SRTSSuperpod"
-	},
-	{
 		"abr": "roboticmatrix(intermediate)",
 		"price": 4158,
 		"category": "Items",
@@ -8139,7 +8079,7 @@
 	{
 		"abr": "musclestimulator",
 		"price": 4167,
-		"category": "Glitterworld parts",
+		"category": "Synthetic organs",
 		"defname": "MuscleStimulator"
 	},
 	{
@@ -8353,12 +8293,6 @@
 		"defname": "Thrumbo"
 	},
 	{
-		"abr": "srts:neuralmeshplates",
-		"price": 7000,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_MeshPlate"
-	},
-	{
 		"abr": "aimanager",
 		"price": 7833,
 		"category": "Production",
@@ -8405,12 +8339,6 @@
 		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "srtsmk.i:skip",
-		"price": 9542,
-		"category": "Buildings",
-		"defname": "SRTSSkip"
 	},
 	{
 		"abr": "ironboundleviathan",
@@ -8503,46 +8431,10 @@
 		"defname": "SPBoats_Caravel"
 	},
 	{
-		"abr": "srts:dimensionalcomponents",
-		"price": 40000,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_DimShift"
-	},
-	{
-		"abr": "srts:nuclearreactorcomponents",
-		"price": 40000,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Reactor"
-	},
-	{
-		"abr": "sraf:canary",
-		"price": 46108,
-		"category": "Buildings",
-		"defname": "SRTF"
-	},
-	{
 		"abr": "galleon",
 		"price": 50000,
 		"category": "Animal",
 		"defname": "SPBoats_Galleon"
-	},
-	{
-		"abr": "srtsmk.ii:albatross",
-		"price": 61842,
-		"category": "Buildings",
-		"defname": "SRTSMkII"
-	},
-	{
-		"abr": "srtsmk.iii:phoenix",
-		"price": 130775,
-		"category": "Buildings",
-		"defname": "SRTSMkIII"
-	},
-	{
-		"abr": "srtsmk.iv:genesis",
-		"price": 265267,
-		"category": "Buildings",
-		"defname": "SRTSMkIV"
 	},
 	{
 		"abr": "instinctoptimizingnanobots",
@@ -8561,12 +8453,6 @@
 		"price": 2000,
 		"category": "Organic optimizer",
 		"defname": "EPOE_OrganicOptimizingNanobots"
-	},
-	{
-		"abr": "clothingrack",
-		"price": 170,
-		"category": "Furniture",
-		"defname": "LWM_Clothing_Rack"
 	},
 	{
 		"abr": "doormat",
@@ -8605,34 +8491,10 @@
 		"defname": "DoorMatTeal"
 	},
 	{
-		"abr": "doubleshelf",
-		"price": 224,
-		"category": "Furniture",
-		"defname": "LWM_BigShelf"
-	},
-	{
 		"abr": "dualrefrigerator",
 		"price": 186,
 		"category": "Furniture",
 		"defname": "RimFridge_Refrigerator"
-	},
-	{
-		"abr": "foodbasket",
-		"price": 270,
-		"category": "Furniture",
-		"defname": "LWM_Food_Basket"
-	},
-	{
-		"abr": "hampers",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "LWM_FabricHamper"
-	},
-	{
-		"abr": "hayloft",
-		"price": 287,
-		"category": "Furniture",
-		"defname": "LWM_Hayloft"
 	},
 	{
 		"abr": "largedoormat",
@@ -8713,24 +8575,6 @@
 		"defname": "Building_RTMagneticShield"
 	},
 	{
-		"abr": "mealtrayrack",
-		"price": 255,
-		"category": "Furniture",
-		"defname": "LWM_MealRack"
-	},
-	{
-		"abr": "meathook",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "LWM_Meat_Hook"
-	},
-	{
-		"abr": "medicinecabinet",
-		"price": 203,
-		"category": "Furniture",
-		"defname": "LWM_Medicine_Cabinet"
-	},
-	{
 		"abr": "mediumdoormat",
 		"price": 13,
 		"category": "Furniture",
@@ -8767,18 +8611,6 @@
 		"defname": "DoorMatMediumTeal"
 	},
 	{
-		"abr": "pallet",
-		"price": 220,
-		"category": "Furniture",
-		"defname": "LWM_Pallet"
-	},
-	{
-		"abr": "palletwithwrapping",
-		"price": 321,
-		"category": "Furniture",
-		"defname": "LWM_Pallet_Covered"
-	},
-	{
 		"abr": "quadrefrigerator",
 		"price": 307,
 		"category": "Furniture",
@@ -8791,18 +8623,6 @@
 		"defname": "RimFridge_SingleRefrigerator"
 	},
 	{
-		"abr": "skip",
-		"price": 305,
-		"category": "Furniture",
-		"defname": "LWM_DeepStorage_Skip"
-	},
-	{
-		"abr": "tallshelves",
-		"price": 550,
-		"category": "Furniture",
-		"defname": "LWM_VeryBigShelf"
-	},
-	{
 		"abr": "walldualrefrigerator",
 		"price": 186,
 		"category": "Furniture",
@@ -8813,18 +8633,6 @@
 		"price": 121,
 		"category": "Furniture",
 		"defname": "RimFridge_SingleWallRefrigerator"
-	},
-	{
-		"abr": "weaponscabinet",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "LWM_WeaponsCabinet"
-	},
-	{
-		"abr": "weaponslocker",
-		"price": 237,
-		"category": "Furniture",
-		"defname": "LWM_WeaponsLocker"
 	},
 	{
 		"abr": "40x365mmboforscartridge(ap)",
@@ -8870,7 +8678,7 @@
 	},
 	{
 		"abr": "advandroidassemblykit",
-		"price": 3667,
+		"price": 4000,
 		"category": "Manufactured",
 		"defname": "AndroidT2Kit"
 	},
@@ -8973,7 +8781,7 @@
 	{
 		"abr": "androidpod",
 		"price": 282,
-		"category": "Misc",
+		"category": "Furniture",
 		"defname": "ATPP_AndroidPod"
 	},
 	{
@@ -9387,7 +9195,7 @@
 	{
 		"abr": "m7pod",
 		"price": 1483,
-		"category": "Misc",
+		"category": "Furniture",
 		"defname": "ATPP_AndroidPodMech"
 	},
 	{
@@ -9410,7 +9218,7 @@
 	},
 	{
 		"abr": "microscyther",
-		"price": 67,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MicroScyther"
 	},
@@ -9566,19 +9374,19 @@
 	},
 	{
 		"abr": "t1android",
-		"price": 2333,
+		"price": 2000,
 		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
-		"price": 4167,
+		"price": 4000,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 8000,
+		"price": 7500,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
@@ -9590,7 +9398,7 @@
 	},
 	{
 		"abr": "t5android",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
@@ -9967,119 +9775,695 @@
 		"defname": "Ammo_Feral_Scrap"
 	},
 	{
-		"abr": "guestadvancedbed",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
-	},
-	{
-		"abr": "guestadvanceddoublebed",
-		"price": 1483,
-		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
-	},
-	{
-		"abr": "guestandroidpod",
-		"price": 282,
-		"category": "Misc",
-		"defname": "ATPP_AndroidPodGuest"
-	},
-	{
-		"abr": "guestandroidupgradestation",
-		"price": 1142,
-		"category": "Furniture",
-		"defname": "AndroidOperationBedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestm7pod",
-		"price": 1483,
-		"category": "Misc",
-		"defname": "ATPP_AndroidPodMechGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
 		"abr": "nail",
 		"price": 1,
 		"category": "Nail",
 		"defname": "Ammo_Feral_Nail"
-	}
+	},
+	{
+		"abr": "arm",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Arm"
+	},
+	{
+		"abr": "brainscantemplate",
+		"price": 167,
+		"category": "Items",
+		"defname": "QE_BrainScannerFilled"
+	},
+	{
+		"abr": "brainscanner",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "QE_BrainScanner"
+	},
+	{
+		"abr": "clonevat",
+		"price": 3592,
+		"category": "Production",
+		"defname": "QE_PawnVat"
+	},
+	{
+		"abr": "ear",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Ear"
+	},
+	{
+		"abr": "eye",
+		"price": 500,
+		"category": "Natural",
+		"defname": "QE_Organ_Eye"
+	},
+	{
+		"abr": "foot",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Foot"
+	},
+	{
+		"abr": "genomesequencetemplate",
+		"price": 167,
+		"category": "Items",
+		"defname": "QE_GenomeSequencerFilled"
+	},
+	{
+		"abr": "genomesequencer",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "QE_GenomeSequencer"
+	},
+	{
+		"abr": "hand",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Hand"
+	},
+	{
+		"abr": "jaw",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Jaw"
+	},
+	{
+		"abr": "leg",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Leg"
+	},
+	{
+		"abr": "nervestaples",
+		"price": 500,
+		"category": "Artificial",
+		"defname": "QE_NerveStaple"
+	},
+	{
+		"abr": "nose",
+		"price": 167,
+		"category": "Natural",
+		"defname": "QE_Organ_Nose"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_NutrientSolution"
+	},
+	{
+		"abr": "organvat",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_Building_OrganVat"
+	},
+	{
+		"abr": "organvat(legacy)",
+		"price": 1075,
+		"category": "Production",
+		"defname": "QE_OrganVat"
+	},
+	{
+		"abr": "pelvis",
+		"price": 333,
+		"category": "Natural",
+		"defname": "QE_Organ_Pelvis"
+	},
+	{
+		"abr": "proteinmash",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "QE_ProteinMash"
+	},
+	{
+		"abr": "spine",
+		"price": 500,
+		"category": "Natural",
+		"defname": "QE_Organ_Spine"
+	},
+	{
+		"abr": "stomach",
+		"price": 667,
+		"category": "Natural",
+		"defname": "QE_Organ_Stomach"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_QESynthMeat"
+	},
+	{
+		"abr": "paddlesteamer",
+		"price": 116667,
+		"category": "Animal",
+		"defname": "SPBoats_PaddleSteamer"
+	},
+	{
+		"abr": "blastturret",
+		"price": 1800,
+		"category": "Security",
+		"defname": "BlastTurretGun"
+	},
+	{
+		"abr": "guncomplex",
+		"price": 1142,
+		"category": "Security",
+		"defname": "GunComplex"
+	},
+	{
+		"abr": "mannedblastturret",
+		"price": 1567,
+		"category": "Security",
+		"defname": "BlastTurretGunManned"
+	},
+	{
+		"abr": "mannedmilitarygradeturret",
+		"price": 958,
+		"category": "Security",
+		"defname": "MilitaryTurretGunManned"
+	},
+	{
+		"abr": "mannedprecisionturret",
+		"price": 1400,
+		"category": "Security",
+		"defname": "PrecisionTurretGunManned"
+	},
+	{
+		"abr": "mannedshredderturret",
+		"price": 1400,
+		"category": "Security",
+		"defname": "ShredderTurretGunManned"
+	},
+	{
+		"abr": "militarygradeturret",
+		"price": 1108,
+		"category": "Security",
+		"defname": "MilitaryTurretGun"
+	},
+	{
+		"abr": "precisionturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "rocketcomplex",
+		"price": 1192,
+		"category": "Security",
+		"defname": "RocketComplex"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "ShredderTurretGun"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "doubleshelf",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": 321,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "20x102mmnatocartridge(ap-i)",
+		"price": 2,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_Incendiary"
+	},
+	{
+		"abr": "20x102mmnatocartridge(he)",
+		"price": 3,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_HE"
+	},
+	{
+		"abr": "20x102mmnatocartridge(sabot)",
+		"price": 3,
+		"category": "20x102mm NATO",
+		"defname": "Ammo_20x102mmNATO_Sabot"
+	},
+	{
+		"abr": "25x137mmnatocartridge(ap-i)",
+		"price": 4,
+		"category": "25x137mm NATO",
+		"defname": "Ammo_25x137mmNATO_Incendiary"
+	},
+	{
+		"abr": "25x137mmnatocartridge(he)",
+		"price": 7,
+		"category": "25x137mm NATO",
+		"defname": "Ammo_25x137mmNATO_HE"
+	},
+	{
+		"abr": "25x137mmnatocartridge(sabot)",
+		"price": 4,
+		"category": "25x137mm NATO",
+		"defname": "Ammo_25x137mmNATO_Sabot"
+	},
+	{
+		"abr": "81mmmortarshell(plasma)",
+		"price": 392,
+		"category": "81mm mortar shell",
+		"defname": "Shell_Plasma"
+	},
+	{
+		"abr": "83mmsmawrocket(heat)",
+		"price": 119,
+		"category": "83mm SMAW Rockets",
+		"defname": "Ammo_83mmSMAW_HEAT"
+	},
+	{
+		"abr": "83mmsmawrocket(thermobaric)",
+		"price": 155,
+		"category": "83mm SMAW Rockets",
+		"defname": "Ammo_83mmSMAW_Thermobaric"
+	},
+	{
+		"abr": "uraniumslug",
+		"price": 5,
+		"category": "Uranium Slugs",
+		"defname": "Ammo_VFES_UraniumSlugs"
+	},
+	{
+		"abr": "blastdoor(2x1)",
+		"price": 1525,
+		"category": "Buildings",
+		"defname": "PH_DoorBlastDoor"
+	},
+	{
+		"abr": "blastdoor(3x2)",
+		"price": 2467,
+		"category": "Buildings",
+		"defname": "PH_DoorThickBlastDoor"
+	},
+	{
+		"abr": "curtain(tribal)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "door(1x2)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "PH_DoorDouble"
+	},
+	{
+		"abr": "door(3x1)",
+		"price": 260,
+		"category": "Buildings",
+		"defname": "PH_DoorTriple"
+	},
+	{
+		"abr": "gate(2x1)",
+		"price": 608,
+		"category": "Buildings",
+		"defname": "PH_GateDoubleThick"
+	},
+	{
+		"abr": "jaildoor",
+		"price": 542,
+		"category": "Buildings",
+		"defname": "PH_DoorJail"
+	},
+	{
+		"abr": "remotedoor(1x1)",
+		"price": 241,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteSingle"
+	},
+	{
+		"abr": "remotedoor(2x1)",
+		"price": 475,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteDouble"
+	},
+	{
+		"abr": "youthserum",
+		"price": 2333,
+		"category": "Items",
+		"defname": "MechSerumYouth"
+	},
+	{
+		"abr": "tx2android",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "ATPP_Android2TX"
+	},
+	{
+		"abr": "tx3android",
+		"price": 9667,
+		"category": "Animal",
+		"defname": "ATPP_Android3TX"
+	},
+	{
+		"abr": "tx4android",
+		"price": 11667,
+		"category": "Animal",
+		"defname": "ATPP_Android4TX"
+	},
+	{
+		"abr": "advancedmechanoidchip",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidChip"
+	},
+	{
+		"abr": "armormodule",
+		"price": 1483,
+		"category": "Manufactured",
+		"defname": "WTH_ArmorModule"
+	},
+	{
+		"abr": "batteryexpansionmodule",
+		"price": 1183,
+		"category": "Manufactured",
+		"defname": "WTH_BatteryExpansionModule"
+	},
+	{
+		"abr": "beltmodule",
+		"price": 1175,
+		"category": "Manufactured",
+		"defname": "WTH_BeltModule"
+	},
+	{
+		"abr": "cargomodule",
+		"price": 950,
+		"category": "Manufactured",
+		"defname": "WTH_CargoModule"
+	},
+	{
+		"abr": "cleaningmodule",
+		"price": 1042,
+		"category": "Manufactured",
+		"defname": "WTH_CleaningModule"
+	},
+	{
+		"abr": "extractedbraindata",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WTH_ExtractedBrainData"
+	},
+	{
+		"abr": "firefightingmodule",
+		"price": 842,
+		"category": "Manufactured",
+		"defname": "WTH_FirefightingModule"
+	},
+	{
+		"abr": "growingmodule",
+		"price": 1400,
+		"category": "Manufactured",
+		"defname": "WTH_GrowingModule"
+	},
+	{
+		"abr": "haulingmodule",
+		"price": 1525,
+		"category": "Manufactured",
+		"defname": "WTH_HaulingModule"
+	},
+	{
+		"abr": "hivedata",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidData"
+	},
+	{
+		"abr": "mechanoidcontrollerbelt",
+		"price": 1242,
+		"category": "Apparel",
+		"defname": "WTH_Apparel_MechControllerBelt"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidParts"
+	},
+	{
+		"abr": "mechanoidworkshop",
+		"price": 1917,
+		"category": "Production",
+		"defname": "WTH_TableMechanoidWorkshop"
+	},
+	{
+		"abr": "opticsensormodule",
+		"price": 767,
+		"category": "Manufactured",
+		"defname": "WTH_OpticSensorModule"
+	},
+	{
+		"abr": "overdrivemodule",
+		"price": 767,
+		"category": "Manufactured",
+		"defname": "WTH_OverdriveModule"
+	},
+	{
+		"abr": "portablechargingplatform",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "WTH_PortableChargingPlatform"
+	},
+	{
+		"abr": "portabledisassemblingbench",
+		"price": 967,
+		"category": "Furniture",
+		"defname": "WTH_PortableDisassemblingBench"
+	},
+	{
+		"abr": "quantumcooler(large)",
+		"price": 3333,
+		"category": "Temperature",
+		"defname": "QC_QuantumCooler_Large"
+	},
+	{
+		"abr": "quantumcooler(prototype)",
+		"price": 675,
+		"category": "Temperature",
+		"defname": "QC_QuantumCooler_Proto"
+	},
+	{
+		"abr": "quantumcooler(small)",
+		"price": 1592,
+		"category": "Temperature",
+		"defname": "QC_QuantumCooler"
+	},
+	{
+		"abr": "quantumheater(large)",
+		"price": 3333,
+		"category": "Temperature",
+		"defname": "QC_QuantumHeater_Large"
+	},
+	{
+		"abr": "quantumheater(small)",
+		"price": 1592,
+		"category": "Temperature",
+		"defname": "QC_QuantumHeater"
+	},
+	{
+		"abr": "repairarm",
+		"price": 725,
+		"category": "Manufactured",
+		"defname": "WTH_RepairArm"
+	},
+	{
+		"abr": "repairmodule",
+		"price": 1158,
+		"category": "Manufactured",
+		"defname": "WTH_RepairModule"
+	},
+	{
+		"abr": "selfdestructmodule",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "WTH_SelfDestructModule"
+	},
+	{
+		"abr": "speedmodule",
+		"price": 750,
+		"category": "Manufactured",
+		"defname": "WTH_SpeedModule"
+	},
+	{
+		"abr": "turretmodule",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "WTH_TurretModule"
+	},
+	{
+		"abr": "vanometricpowercellmodule",
+		"price": 2875,
+		"category": "Manufactured",
+		"defname": "WTH_VanometricModule"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 51442,
+		"category": "Buildings",
+		"defname": "SRTF"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9542,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 76842,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 148275,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 119192,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 372767,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "srts:dimensionalcomponents",
+		"price": 40000,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_DimShift"
+	},
+	{
+		"abr": "srts:electricalcomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_ElectricSystem"
+	},
+	{
+		"abr": "srts:enginecomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Engines"
+	},
+	{
+		"abr": "srts:internalcomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Structural"
+	},
+	{
+		"abr": "srts:mechanicalcomponents",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_MechSystem"
+	},
+	{
+		"abr": "srts:neuralmeshplates",
+		"price": 7000,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_MeshPlate"
+	},
+	{
+		"abr": "srts:nuclearreactorcomponents",
+		"price": 40000,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Reactor"
+	},
+	{
+		"abr": "srts:steelplates",
+		"price": 1583,
+		"category": "Shuttle components",
+		"defname": "ShuttleComp_Plates"
+	},
+	{
+		"abr": "superpod",
+		"price": 4150,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
 	],
-	"total": 1913
+	"total": 2116
 }
