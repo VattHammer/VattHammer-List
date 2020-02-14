@@ -10464,6 +10464,132 @@
 		"category": "Buildings",
 		"defname": "SRTSSuperpod"
 	},
+	{
+		"abr": "centipede",
+		"price": 2900,
+		"category": "Animal",
+		"defname": "Mech_Centipede"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestandroidpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodGuest"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestm7pod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodMechGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "lancer",
+		"price": 800,
+		"category": "Animal",
+		"defname": "Mech_Lancer"
+	},
+	{
+		"abr": "scyther",
+		"price": 800,
+		"category": "Animal",
+		"defname": "Mech_Scyther"
+	}
 	],
-	"total": 2116
+	"total": 2137
 }
