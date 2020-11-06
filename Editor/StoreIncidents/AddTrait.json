@@ -1,0 +1,9 @@
+{
+	"defName":"AddTrait",
+	"abbreviation":"trait",
+	"cost":"3500",
+	"eventCap":"5",
+	"karmaType":"Good",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}
